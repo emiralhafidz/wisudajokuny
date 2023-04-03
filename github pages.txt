@@ -1,0 +1,8 @@
+git config --global user.name "emiralhafidz"
+git config --global user.email "hafidz853@gmail.com"
+git init
+git add .
+git commit -m "fist commit"
+git branch -M main
+git remote add origin https://
+git push -u origin main
